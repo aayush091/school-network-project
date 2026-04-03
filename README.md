@@ -80,13 +80,13 @@ All issues were resolved through systematic troubleshooting and verification.
 ## 📸 Network Screenshots
 
 ### Darwin Main Network
-![Darwin](screenshots/darwin_main.png)
+darwin_main.png
 
 ### Alice Springs Branch
-![Alice](screenshots/AliceSpring.png)
+Alice Spring.png
 
 ### Tennant Creek Branch
-![Tennant](screenshots/TennantCreek.png)
+TennantCREEK.png)
 
 ---
 
