@@ -35,7 +35,7 @@ Designed and implemented a multi-branch enterprise network connecting Darwin (co
 - HSRP (gateway redundancy)
 - DHCP (centralized + relay)
 - DNS (name resolution across branches)
-- HTTP (web server hosting – *school.com*)
+- HTTP (web server hosting – *webschool.com*)
 - ACL (traffic control and security)
 - EtherChannel & STP (Layer 2 redundancy)
 
@@ -80,21 +80,20 @@ All issues were resolved through systematic troubleshooting and verification.
 ## 📸 Network Screenshots
 
 ### Darwin Main Network
-darwin_main.png
+![Darwin](darwin_main.png)
 
 ### Alice Springs Branch
-Alice Spring.png
+![Alice](AliceSpring.png)
 
 ### Tennant Creek Branch
-TennantCREEK.png)
+![Tennant](TennantCREEK.png)
 
 ---
 
 ## 📂 Project Files
 
-- 📄 `report/` → Full project documentation  
-- 🌐 `topology/` → Packet Tracer (.pkt) file  
-- 🖼 `screenshots/` → Network and configuration visuals  
+- 📄 `report/` → [View Project Report](school_NTproject.pdf)
+- 🌐 `topology/` →[Download Network Topology](school_NT.pkt)  
 
 ---
 
